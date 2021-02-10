@@ -1,0 +1,84 @@
+* {
+  font-family: 'Manrope', sans-serif; }
+
+h1 {
+  font-family: 'Manrope', sans-serif;
+  font-weight: 800; }
+
+#grad1 {
+  height: 7px;
+  background-color: red;
+  background-image: linear-gradient(to right, #007bff, #00ff84); }
+
+.bg-blueDark {
+  background-color: #00264e; }
+
+.border {
+  border: 1px solid white; }
+
+.txtcenter {
+  text-align: center; }
+
+footer {
+  padding-top: 20px; }
+
+footer .padd {
+  padding-left: 75px; }
+
+.cardBorder {
+  border: none; }
+
+.divIzq {
+  padding-top: 100px;
+  margin: 0 50px; }
+
+.divDer {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 0 50px; }
+
+.carousel-inner img {
+  width: 100%;
+  height: 100%; }
+
+.w300 {
+  font-family: 'Manrope', sans-serif;
+  font-weight: 300; }
+
+.padding-tp {
+  padding-top: 1rem; }
+
+.padding-tp-bt {
+  padding-top: 2rem;
+  padding-bottom: 2rem; }
+
+.bgcolor {
+  background-color: #efefef; }
+
+.paddingal {
+  padding: 1rem; }
+
+.bg-img {
+  background-image: url("../img/us.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative; }
+
+.nos-text {
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white; }
+
+.bg-alpha {
+  margin-top: 150px;
+  display: inline-block;
+  background-color: rgba(239, 239, 239, 0.7); }
+
+.form-dpy-ib {
+  display: inline-block; }

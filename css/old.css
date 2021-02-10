@@ -1,0 +1,42 @@
+:root {
+    font-family: 'Manrope', sans-serif;
+}
+
+.bg {
+    background-color: cornflowerblue;
+    padding: 500px;
+}
+
+#grad1 {
+    height: 7px;
+    background-color: red;
+    /* For browsers that do not support gradients */
+    background-image: linear-gradient(to right, #007bff, #00ff84);
+}
+
+.sticky-top-2 {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 59px;
+    z-index: 1020;
+}
+
+.bg-blueDark {
+    background-color: #00264e;
+}
+
+.border {
+    border: 1px solid white;
+}
+
+.txtcenter {
+    text-align: center;
+}
+
+footer {
+    padding-top: 20px;
+}
+
+footer .padd {
+    padding-left: 75px;
+}
